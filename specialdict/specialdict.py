@@ -1,5 +1,5 @@
 from specialdict.iloc import Iloc
-# from specialdict.ploc import Ploc
+from specialdict.ploc import Ploc
 
 
 class SpecialDict(dict):
@@ -9,4 +9,4 @@ class SpecialDict(dict):
             values = {}
         super().__init__(values)
         self.iloc = Iloc(self)
-        # self.ploc = Ploc(self)
+        self.ploc = Ploc(self)
