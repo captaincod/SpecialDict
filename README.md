@@ -6,5 +6,6 @@
 
 - Демонстрация работы - `main.py`  
 
-Покрытие кода тестами:  
+- Покрытие кода тестами:  
+
 ![coverage_report](https://user-images.githubusercontent.com/46486971/149651029-1c370981-04e0-4ec4-8b6e-e6b0b6a8a44f.png)
